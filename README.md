@@ -6,9 +6,9 @@ The objective of this project is to develop a robust analytical model capable of
 
 ## Data Source
 
-- Bureau of Labor Statistics Data
-- Consumer Credit - Data.gov
-- Consumer Credit Trends
+- Bureau of Labor Statistics Data – Unemployment Data​ (https://data.bls.gov/timeseries/LNS14000000)
+- Consumer Credit - Data dot gov – Credit Owned Data​ (https://catalog.data.gov/dataset/consumer-credit)
+- Consumer Credit Trends – Sub-categorical data like Mortgage, Auto and student loan, etc.​ (https://www.consumerfinance.gov/data-research/consumer-credit-trends/)
 
 ## Preprocessing the Data
 
@@ -50,3 +50,7 @@ The objective of this project is to develop a robust analytical model capable of
 'Student loans': 5894479882.94339, ​
 'Mortgages': 89403943591.27307, ​
 'Other': 450673606701.9846}​
+
+## Presentation Slides Link
+
+- 
