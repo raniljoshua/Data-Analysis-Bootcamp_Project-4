@@ -9,6 +9,7 @@ The objective of this project is to develop a robust analytical model capable of
 - Bureau of Labor Statistics Data – Unemployment Data​ (https://data.bls.gov/timeseries/LNS14000000)
 - Consumer Credit - Data dot gov – Credit Owned Data​ (https://catalog.data.gov/dataset/consumer-credit)
 - Consumer Credit Trends – Sub-categorical data like Mortgage, Auto and student loan, etc.​ (https://www.consumerfinance.gov/data-research/consumer-credit-trends/)
+- Federal Funds Rate ​- influences various aspects of the economy, including credit card interest rates, mortgage rates, and other consumer products.​ (https://fred.stlouisfed.org/series/DFF)
 
 ## Preprocessing the Data
 
