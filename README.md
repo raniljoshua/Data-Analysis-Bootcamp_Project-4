@@ -54,4 +54,4 @@ The objective of this project is to develop a robust analytical model capable of
 
 ## Presentation Slides Link
 
-- 
+- https://1drv.ms/p/s!Ag1bpDc_9cFCwgqT4qARp6I4mSQo?e=ZclfZH
